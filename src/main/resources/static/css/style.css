@@ -1,0 +1,66 @@
+/* TripSplit Custom Styling */
+:root {
+    --bs-primary: #3b82f6;
+    --bs-primary-rgb: 59, 130, 246;
+}
+
+body {
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    background-color: #f8fafc !important;
+    color: #1e293b;
+}
+
+.navbar {
+    background: linear-gradient(135deg, #1e40af, #3b82f6) !important;
+}
+
+.stat-card {
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    border-radius: 12px;
+}
+
+.stat-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 18px rgba(0,0,0,0.08) !important;
+}
+
+.stat-icon {
+    width: 48px;
+    height: 48px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.trip-card {
+    border-radius: 12px;
+    transition: transform 0.2s, box-shadow 0.2s;
+    cursor: pointer;
+}
+
+.trip-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.08) !important;
+}
+
+.debt-card {
+    border-radius: 10px;
+    border-left: 4px solid #ef4444;
+    background-color: #ffffff;
+}
+
+.badge-owes {
+    background-color: #fee2e2;
+    color: #b91c1c;
+}
+
+.badge-gets {
+    background-color: #dcfce7;
+    color: #15803d;
+}
+
+.badge-settled {
+    background-color: #f1f5f9;
+    color: #475569;
+}
