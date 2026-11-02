@@ -64,3 +64,4 @@ public class CreateSettlementRequest {
         this.notes = notes;
     }
 }
+

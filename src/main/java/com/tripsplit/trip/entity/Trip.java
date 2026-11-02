@@ -105,3 +105,4 @@ public class Trip {
         this.createdAt = createdAt;
     }
 }
+

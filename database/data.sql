@@ -58,3 +58,4 @@ ON DUPLICATE KEY UPDATE share_amount=VALUES(share_amount);
 INSERT INTO settlements (id, trip_id, payer_id, payee_id, amount, settlement_date, notes) VALUES
 (1, 1, 3, 1, 2000.00, '2026-11-12', 'UPI payment for resort advance')
 ON DUPLICATE KEY UPDATE amount=VALUES(amount);
+

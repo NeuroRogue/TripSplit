@@ -92,3 +92,4 @@ CREATE TABLE IF NOT EXISTS settlements (
     CONSTRAINT fk_settlements_payer FOREIGN KEY (payer_id) REFERENCES users(id) ON DELETE RESTRICT,
     CONSTRAINT fk_settlements_payee FOREIGN KEY (payee_id) REFERENCES users(id) ON DELETE RESTRICT
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+

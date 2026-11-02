@@ -107,3 +107,4 @@ public class TripDetailResponse {
         this.members = members;
     }
 }
+

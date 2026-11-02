@@ -53,3 +53,4 @@ public final class MoneyUtils {
         return value == null ? BigDecimal.ZERO.setScale(2, RoundingMode.HALF_UP) : value.setScale(2, RoundingMode.HALF_UP);
     }
 }
+

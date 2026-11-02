@@ -35,3 +35,4 @@ INSERT INTO expense_shares (id, expense_id, user_id, share_amount) VALUES
 
 INSERT INTO settlements (id, trip_id, payer_id, payee_id, amount, settlement_date, notes) VALUES
 (1, 1, 3, 1, 2000.00, '2026-11-12', 'UPI payment for resort advance');
+

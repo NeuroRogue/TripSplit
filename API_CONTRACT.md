@@ -246,3 +246,4 @@ This specification defines the shared REST API contracts agreed upon by the 4-me
 | `feature/expense-split` | Member 3 | Expense recording & share persistence |
 | `feature/auth-dashboard` | Member 4 | User login/register & Dashboard charts UI |
 | `feature/balance-settlement`| Member 1 | Settlement engine & Net balance algorithms |
+

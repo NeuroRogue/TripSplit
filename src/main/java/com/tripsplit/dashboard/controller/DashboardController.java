@@ -30,3 +30,4 @@ public class DashboardController {
         return ResponseEntity.ok(ApiResponse.ok("Trip summary retrieved", summary));
     }
 }
+

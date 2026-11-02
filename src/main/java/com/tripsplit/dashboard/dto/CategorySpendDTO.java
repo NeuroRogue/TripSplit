@@ -39,3 +39,4 @@ public class CategorySpendDTO {
         this.percentage = percentage;
     }
 }
+

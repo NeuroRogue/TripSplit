@@ -52,3 +52,4 @@ public class TripController {
         return ResponseEntity.ok(ApiResponse.ok("Trip members retrieved successfully", members));
     }
 }
+

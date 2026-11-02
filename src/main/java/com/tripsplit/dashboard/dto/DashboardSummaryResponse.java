@@ -63,3 +63,4 @@ public class DashboardSummaryResponse {
         this.topCategories = topCategories;
     }
 }
+

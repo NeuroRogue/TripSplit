@@ -14,3 +14,4 @@ public interface TripMemberRepository extends JpaRepository<TripMember, Long> {
     boolean existsByTripIdAndUserId(Long tripId, Long userId);
     void deleteByTripIdAndUserId(Long tripId, Long userId);
 }
+

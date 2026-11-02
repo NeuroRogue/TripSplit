@@ -37,3 +37,4 @@ class TripSplitApplicationTests {
         assertEquals(new BigDecimal("6000.00"), shares.get(3));
     }
 }
+

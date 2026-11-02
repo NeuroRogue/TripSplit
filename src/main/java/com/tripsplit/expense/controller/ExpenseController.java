@@ -41,3 +41,4 @@ public class ExpenseController {
         return ResponseEntity.ok(ApiResponse.ok("Expense details retrieved successfully", expense));
     }
 }
+

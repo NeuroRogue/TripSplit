@@ -64,3 +64,4 @@ public class CreateTripRequest {
         this.createdBy = createdBy;
     }
 }
+

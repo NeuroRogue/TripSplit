@@ -41,3 +41,4 @@ public class CreateActivityRequest {
         this.estimatedCost = estimatedCost;
     }
 }
+

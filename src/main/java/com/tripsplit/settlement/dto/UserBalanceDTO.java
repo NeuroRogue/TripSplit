@@ -97,3 +97,4 @@ public class UserBalanceDTO {
         this.status = status;
     }
 }
+

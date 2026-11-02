@@ -128,3 +128,4 @@ javaMiniProject/
     └── test/java/com/tripsplit/
         └── TripSplitApplicationTests.java # Unit tests for paise splitting precision
 ```
+

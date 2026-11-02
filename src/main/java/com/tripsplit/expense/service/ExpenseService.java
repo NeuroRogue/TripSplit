@@ -129,3 +129,4 @@ public class ExpenseService {
         return expenseRepository.findByTripIdOrderByExpenseDateDescCreatedAtDesc(tripId);
     }
 }
+

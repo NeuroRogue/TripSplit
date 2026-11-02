@@ -93,3 +93,4 @@ public class Activity {
         this.createdAt = createdAt;
     }
 }
+

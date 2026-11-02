@@ -49,3 +49,4 @@ public class ActivityController {
         return ResponseEntity.ok(ApiResponse.ok("Activity deleted successfully", "Activity " + activityId + " removed"));
     }
 }
+

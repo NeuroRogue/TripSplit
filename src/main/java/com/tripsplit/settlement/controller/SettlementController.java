@@ -42,3 +42,4 @@ public class SettlementController {
         return ResponseEntity.ok(ApiResponse.ok("Settlements retrieved successfully", settlements));
     }
 }
+

@@ -111,3 +111,4 @@ Reduces total transactions in a group:
 7. **Step 6 (Show Balances)**: Open "Balances & Settlements" &rarr; Show net balance table and "Who Owes Whom" cards.
 8. **Step 7 (Record Settlement)**: Click "Settle Up Now" &rarr; Amit pays Rahul ₹2,000 &rarr; Balances re-compute in real time!
 9. **Step 8 (Dashboard & Charts)**: Open Dashboard &rarr; Show dynamic Chart.js donut chart showing spending by category.
+

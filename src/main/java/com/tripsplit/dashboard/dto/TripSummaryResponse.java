@@ -99,3 +99,4 @@ public class TripSummaryResponse {
         this.simplifiedDebts = simplifiedDebts;
     }
 }
+

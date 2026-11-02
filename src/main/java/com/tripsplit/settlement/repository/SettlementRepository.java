@@ -10,3 +10,4 @@ import java.util.List;
 public interface SettlementRepository extends JpaRepository<Settlement, Long> {
     List<Settlement> findByTripIdOrderBySettlementDateDescCreatedAtDesc(Long tripId);
 }
+

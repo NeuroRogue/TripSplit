@@ -121,3 +121,4 @@ public class SettlementResponse {
         this.createdAt = createdAt;
     }
 }
+

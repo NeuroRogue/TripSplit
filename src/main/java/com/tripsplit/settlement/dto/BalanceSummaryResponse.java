@@ -52,3 +52,4 @@ public class BalanceSummaryResponse {
         this.simplifiedDebts = simplifiedDebts;
     }
 }
+

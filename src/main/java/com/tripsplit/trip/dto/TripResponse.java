@@ -106,3 +106,4 @@ public class TripResponse {
         this.createdAt = createdAt;
     }
 }
+

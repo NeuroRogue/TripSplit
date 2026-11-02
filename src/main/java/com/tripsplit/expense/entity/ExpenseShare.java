@@ -65,3 +65,4 @@ public class ExpenseShare {
         this.shareAmount = shareAmount;
     }
 }
+
